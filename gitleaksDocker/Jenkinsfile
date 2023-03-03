@@ -1,1 +1,3 @@
+@Library('jenkins@LATEST') _
 
+gitleaksDocker()
