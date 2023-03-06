@@ -1,3 +1,3 @@
-@Library"jenkins" _
+@Library('jenkins@main') _
 
 gitleaksDocker()
